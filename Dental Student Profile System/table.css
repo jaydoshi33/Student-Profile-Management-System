@@ -1,0 +1,36 @@
+th {
+    width: 15rem;
+    height: 2rem;
+    position: relative;
+    margin: 0 auto;
+  }
+  th {
+    font-size: 18px;
+    padding: 20px;
+    margin: 10px;
+    background: #f9f9f9;
+    box-shadow: 4px 4px 4px 0px #f6dddd inset, -4px -4px 4px 0px white inset;
+    cursor: pointer;
+    -webkit-transition: all 0.6s ease;
+    transition: all 0.6s ease;
+  }
+  table{
+      margin-left:12%;
+      margin-top:5%;
+  }
+
+  td{
+      border:solid 2px #f6dddd;
+      padding:1rem;
+  }
+
+  #rad1{
+    border-top-left-radius: 10px;
+    }
+  
+    #rad2{
+        border-top-right-radius: 10px;
+        }
+
+
+  
